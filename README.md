@@ -1,2 +1,2 @@
 # Python-and-Elevator
-OOP semester project
+OOP application project using python
